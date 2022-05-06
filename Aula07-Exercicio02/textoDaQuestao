@@ -1,0 +1,7 @@
+Crie um programa que leia nome, sobrenome, salário e idade de 5 pessoas.
+A classe Pessoa deve ter um método que imprima o nome completo.
+Ao final, o programa deve imprimir os dados:
+- quantidade de pessoas com salário maior do que R$ 2000;
+- da pessoa com maior idade;
+- da pessoa com menor idade.
+Depois, imprimir a lista de pessoas.
