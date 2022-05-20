@@ -1,0 +1,5 @@
+Crie uma classe que recebe dois números ao ser instanciada.
+Essa classe deve ter 3 operações envolvendo esses números:
+- adição;
+- subtração;
+- exibir números.
